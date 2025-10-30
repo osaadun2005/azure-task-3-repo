@@ -41,10 +41,10 @@ To Configure Container Environment Variables For Container App BackEnd
    
   - Step 1: Login to Azure
 
-   <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/aaeb9246-0161-4f76-bc70-462986c82fc6" />
+    <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/aaeb9246-0161-4f76-bc70-462986c82fc6" />
 
    
-   <img width="941" height="674" alt="image" src="https://github.com/user-attachments/assets/96f1ca85-fd68-4829-9698-da9d90123aac" />
+    <img width="941" height="674" alt="image" src="https://github.com/user-attachments/assets/96f1ca85-fd68-4829-9698-da9d90123aac" />
 
   - Step 2. Locate Existing Managed Environment Created From Task 2
 
@@ -86,22 +86,22 @@ To Configure Container Environment Variables For Container App BackEnd
 
     - Ingress Setting to port **8000*
    
-     <img width="983" height="520" alt="image" src="https://github.com/user-attachments/assets/70447178-8ff1-4f8a-8617-22f47dc6c4cf" />
+      <img width="983" height="520" alt="image" src="https://github.com/user-attachments/assets/70447178-8ff1-4f8a-8617-22f47dc6c4cf" />
  
-     <img width="988" height="664" alt="image" src="https://github.com/user-attachments/assets/c6ebd35f-2063-4104-bb76-fd68de1c274e" />
+      <img width="988" height="664" alt="image" src="https://github.com/user-attachments/assets/c6ebd35f-2063-4104-bb76-fd68de1c274e" />
 
     - Tags Seting
    
       ![WhatsApp Image 2025-10-30 at 5 48 36 PM](https://github.com/user-attachments/assets/c72e9c15-9746-49a2-9850-cc6fe38a1e23)
 
 
-   - Review + Create
+    - Review + Create
 
-     <img width="1003" height="552" alt="image" src="https://github.com/user-attachments/assets/90dbb091-19b3-4bcb-9cdc-10f30de01e0a" />
+      <img width="1003" height="552" alt="image" src="https://github.com/user-attachments/assets/90dbb091-19b3-4bcb-9cdc-10f30de01e0a" />
 
-     <img width="1003" height="687" alt="image" src="https://github.com/user-attachments/assets/abdf6fb1-8bd4-4c31-a4ea-66d017aef2bb" />
+      <img width="1003" height="687" alt="image" src="https://github.com/user-attachments/assets/abdf6fb1-8bd4-4c31-a4ea-66d017aef2bb" />
 
-     <img width="1008" height="608" alt="image" src="https://github.com/user-attachments/assets/54d6b29a-1516-4921-ad50-621008ae5a36" />
+      <img width="1008" height="608" alt="image" src="https://github.com/user-attachments/assets/54d6b29a-1516-4921-ad50-621008ae5a36" />
 
 
 
