@@ -104,6 +104,41 @@ To Configure Container Environment Variables For Container App BackEnd
       <img width="1008" height="608" alt="image" src="https://github.com/user-attachments/assets/54d6b29a-1516-4921-ad50-621008ae5a36" />
 
 
+  - 4. Configurationg and Setting of BackEnd App Deployed
+   
+      - Revisions And Replicas
+   
+        <img width="956" height="473" alt="image" src="https://github.com/user-attachments/assets/b36506a6-7e2c-4779-8f8f-2ed0ad56db31" />
+
+    - Containers 
+   
+       ![WhatsApp Image 2025-10-31 at 9 40 34 AM](https://github.com/user-attachments/assets/9b59900f-81f9-4d3e-ab01-46e812dcf6be)
+
+       ![WhatsApp Image 2025-10-31 at 9 49 29 AM](https://github.com/user-attachments/assets/dc9bcef8-3e2c-4c07-82d3-bc4ca16bbc8c)
+
+
+
+    - Connections
+
+
+
+
+    - Secret: + Add
+
+       ![WhatsApp Image 2025-10-31 at 9 52 27 AM](https://github.com/user-attachments/assets/6645848b-3c82-416a-9b22-1834df1099c6)
+
+       ![WhatsApp Image 2025-10-31 at 9 57 26 AM](https://github.com/user-attachments/assets/e133b22b-28de-4472-b970-16e06d101ee9)
+
+
+
+
+
+
+
+   
+       
+
+
 
 
 
