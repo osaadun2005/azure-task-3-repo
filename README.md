@@ -110,24 +110,27 @@ To Configure Container Environment Variables For Container App BackEnd
    
         <img width="956" height="473" alt="image" src="https://github.com/user-attachments/assets/b36506a6-7e2c-4779-8f8f-2ed0ad56db31" />
 
-    - Containers 
+     - Containers 
    
-       ![WhatsApp Image 2025-10-31 at 9 40 34 AM](https://github.com/user-attachments/assets/9b59900f-81f9-4d3e-ab01-46e812dcf6be)
+       <img width="1280" height="589" alt="image" src="https://github.com/user-attachments/assets/47d7e0bf-c0f7-49c2-910e-14306712e73a" />
 
-       ![WhatsApp Image 2025-10-31 at 9 49 29 AM](https://github.com/user-attachments/assets/dc9bcef8-3e2c-4c07-82d3-bc4ca16bbc8c)
+
+       <img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/6fca8b41-ba55-4d33-a90c-fad5299d0d78" />
+
 
 
     - Security
 
       
-       ![WhatsApp Image 2025-10-31 at 9 52 27 AM](https://github.com/user-attachments/assets/6645848b-3c82-416a-9b22-1834df1099c6)
+       <img width="987" height="451" alt="image" src="https://github.com/user-attachments/assets/8ff492a4-1d79-4e46-b33e-656b39e805e7" />
+
 
     - Secret: + Add
 
 
-       ![WhatsApp Image 2025-10-31 at 9 57 26 AM](https://github.com/user-attachments/assets/e133b22b-28de-4472-b970-16e06d101ee9)
+       <img width="1280" height="568" alt="image" src="https://github.com/user-attachments/assets/042273d0-ffca-4ec3-9f30-3f719d3b1c1b" />
 
-       ![WhatsApp Image 2025-11-03 at 3 46 26 PM](https://github.com/user-attachments/assets/0b2acb1a-1aae-4152-beff-c73de2561ef6)
+       <img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/c6d9d75d-f177-4cf5-821c-08093ce49b31" />
 
 
 
@@ -137,9 +140,9 @@ To Configure Container Environment Variables For Container App BackEnd
      
     - Go To The Created PostgreSQL
    
-      ![WhatsApp Image 2025-11-03 at 4 05 51 PM](https://github.com/user-attachments/assets/26fffdc0-ae23-40af-946b-0c1d9359a4e3)
+     <img width="1280" height="742" alt="image" src="https://github.com/user-attachments/assets/58ec5832-bc25-45a6-ac3a-cf9df961ee3f" />
 
-      <img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/8711826c-6a56-4211-b4c8-255e457db76a" />
+     <img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/8711826c-6a56-4211-b4c8-255e457db76a" />
 
    
     - Choose The Preferred Language Variable
