@@ -139,7 +139,7 @@ To Configure Container Environment Variables For Container App BackEnd
   - Connections
    
      
-    - Go To The Created PostgreSQL
+    - Go To The Created PostgreSQL Flexi Server
    
        <img width="1280" height="742" alt="image" src="https://github.com/user-attachments/assets/58ec5832-bc25-45a6-ac3a-cf9df961ee3f" />
 
@@ -168,6 +168,8 @@ To Configure Container Environment Variables For Container App BackEnd
 
 
   - Go Back To Application
+
+  - Container
 
     
      <img width="1280" height="589" alt="image" src="https://github.com/user-attachments/assets/ae8cec79-a824-4f45-a720-6e43173caf06" />
