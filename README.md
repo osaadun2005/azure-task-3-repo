@@ -59,7 +59,7 @@ To Configure Container Environment Variables For Container App BackEnd
 
     -  Click Apps
    
-       <img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/4aca1e00-eb8c-42fa-891f-83c81e204ee1" />
+     <img width="1280" height="744" alt="image" src="https://github.com/user-attachments/assets/4aca1e00-eb8c-42fa-891f-83c81e204ee1" />
 
     - + Create 
 
@@ -129,6 +129,7 @@ To Configure Container Environment Variables For Container App BackEnd
 
 
        <img width="1280" height="568" alt="image" src="https://github.com/user-attachments/assets/042273d0-ffca-4ec3-9f30-3f719d3b1c1b" />
+       
 
        <img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/c6d9d75d-f177-4cf5-821c-08093ce49b31" />
 
@@ -140,16 +141,16 @@ To Configure Container Environment Variables For Container App BackEnd
      
     - Go To The Created PostgreSQL
    
-     <img width="1280" height="742" alt="image" src="https://github.com/user-attachments/assets/58ec5832-bc25-45a6-ac3a-cf9df961ee3f" />
+       <img width="1280" height="742" alt="image" src="https://github.com/user-attachments/assets/58ec5832-bc25-45a6-ac3a-cf9df961ee3f" />
 
-     <img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/8711826c-6a56-4211-b4c8-255e457db76a" />
+       <img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/8711826c-6a56-4211-b4c8-255e457db76a" />
 
    
     - Choose The Preferred Language Variable
 
-       <img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/2adfd5c8-4178-47db-a0af-65c8e1be1798" />
+      <img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/2adfd5c8-4178-47db-a0af-65c8e1be1798" />
       
-       <img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/11d37c9b-3172-4323-ae03-1ad79beb7da4" />
+      <img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/11d37c9b-3172-4323-ae03-1ad79beb7da4" />
 
     - Value of Secret
 
@@ -160,20 +161,20 @@ To Configure Container Environment Variables For Container App BackEnd
 
        <img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/f31c69f5-2138-4985-8bea-11a1ee30e105" />
 
-    - Add To Create Secret
+    -  Add To Create Secret
 
 
-      <img width="1280" height="885" alt="image" src="https://github.com/user-attachments/assets/468bfdbf-b075-417b-a2f1-abf09a96746b" />
+       <img width="1280" height="885" alt="image" src="https://github.com/user-attachments/assets/468bfdbf-b075-417b-a2f1-abf09a96746b" />
 
 
   - Go Back To Application
 
     
-    <img width="1280" height="589" alt="image" src="https://github.com/user-attachments/assets/ae8cec79-a824-4f45-a720-6e43173caf06" />
+     <img width="1280" height="589" alt="image" src="https://github.com/user-attachments/assets/ae8cec79-a824-4f45-a720-6e43173caf06" />
 
   - Environment Variables
 
-    <img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/a84ea862-7632-43e7-9e06-c1702b295cb5" />
+     <img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/a84ea862-7632-43e7-9e06-c1702b295cb5" />
 
   - + Add
 
