@@ -127,8 +127,8 @@ To Configure Container Environment Variables For Container App BackEnd
 
    - Secret: + Add
 
+       <img width="905" height="380" alt="image" src="https://github.com/user-attachments/assets/c523d231-c6a9-4e82-b158-de4f095962da" />
 
-       <img width="1280" height="568" alt="image" src="https://github.com/user-attachments/assets/042273d0-ffca-4ec3-9f30-3f719d3b1c1b" />
        
        
        <img width="1080" height="863" alt="image" src="https://github.com/user-attachments/assets/5e7e9f88-248e-473a-85f3-8640be9137dc" />
