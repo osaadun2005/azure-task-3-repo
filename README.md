@@ -157,16 +157,96 @@ To Configure Container Environment Variables For Container App BackEnd
 
       <img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/f31c69f5-2138-4985-8bea-11a1ee30e105" />
 
+    - + Add To Create Secret
+
+
+      <img width="1280" height="885" alt="image" src="https://github.com/user-attachments/assets/468bfdbf-b075-417b-a2f1-abf09a96746b" />
+
+
+  - Go Back To Application
+
+  -  Container
+    <img width="1280" height="589" alt="image" src="https://github.com/user-attachments/assets/ae8cec79-a824-4f45-a720-6e43173caf06" />
+
+  - Environment Variables
+
+    <img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/a84ea862-7632-43e7-9e06-c1702b295cb5" />
+
+  - + Add
+
+     <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/68daf692-403a-4a18-b793-0647089d77c6" />
+
+  - Choose Parameters In Dropbox
+  - Name
+  - Source
+  - Value
+
+  
+    <img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/7a7ad1db-432a-493f-849f-f5f6cede72b4" />
+
+ - Save And Deploy Revision
+
+   <img width="999" height="556" alt="image" src="https://github.com/user-attachments/assets/b926acf1-e14a-423c-83b2-3802b9b83542" />
+
+
+   <img width="1280" height="603" alt="image" src="https://github.com/user-attachments/assets/ee8976d1-7856-4f19-aac4-d7955bc7ba80" />
    
 
-
-
-
-
+   <img width="1280" height="603" alt="image" src="https://github.com/user-attachments/assets/c1b5cf2a-ab9c-48e5-85fb-937065fd8b1b" />
 
    
-       
+ 
+- Revions And Replicas
+  
+  <img width="1280" height="489" alt="image" src="https://github.com/user-attachments/assets/200bb565-4d84-4303-8f20-092cb4cbd335" />
 
+  <img width="1280" height="601" alt="image" src="https://github.com/user-attachments/assets/9b87f657-5f6c-48fc-9a4a-1ad5d7b58faa" />
+
+
+5. **Testing And Benefit**
+
+  - az containerapp logs show --name demo-app --resource-group app-demo-rg
+    
+  - Verify PostgreSQL access:
+    
+  - psql -h demo-postgres.postgres.database.azure.com -U pgadmin -d demo_db
+
+  - Simplified deployment of microservices
+    
+  - Serverless scalability
+    
+  - Secure connection using managed identities
+    
+  - Cost-effective and easy to monitor
+
+
+  
+
+6. **Conclusion**
+
+- Application successfully deployed on Azure Container Apps
+  
+- PostgreSQL database configured and connected
+  
+- Container environment variables securely set
+
+
+
+    
+7. **Resources**
+
+   
+- Instructor: Gabriel Mekuleyi
+
+- Azure Portal
+
+- Azure CLI
+
+- Azure Container Apps
+
+- Docker Hub
+
+- GitHub Repository
 
 
 
