@@ -104,7 +104,7 @@ To Configure Container Environment Variables For Container App BackEnd
       <img width="1008" height="608" alt="image" src="https://github.com/user-attachments/assets/54d6b29a-1516-4921-ad50-621008ae5a36" />
 
 
-  - 4. Configurationg and Setting of BackEnd App Deployed
+   4. **Configurationg and Setting of BackEnd App Deployed**
    
       - Revisions And Replicas
    
