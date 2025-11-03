@@ -117,18 +117,47 @@ To Configure Container Environment Variables For Container App BackEnd
        ![WhatsApp Image 2025-10-31 at 9 49 29 AM](https://github.com/user-attachments/assets/dc9bcef8-3e2c-4c07-82d3-bc4ca16bbc8c)
 
 
+    - Security
 
-    - Connections
-
-
-
+      
+       ![WhatsApp Image 2025-10-31 at 9 52 27 AM](https://github.com/user-attachments/assets/6645848b-3c82-416a-9b22-1834df1099c6)
 
     - Secret: + Add
 
-       ![WhatsApp Image 2025-10-31 at 9 52 27 AM](https://github.com/user-attachments/assets/6645848b-3c82-416a-9b22-1834df1099c6)
 
        ![WhatsApp Image 2025-10-31 at 9 57 26 AM](https://github.com/user-attachments/assets/e133b22b-28de-4472-b970-16e06d101ee9)
 
+       ![WhatsApp Image 2025-11-03 at 3 46 26 PM](https://github.com/user-attachments/assets/0b2acb1a-1aae-4152-beff-c73de2561ef6)
+
+
+
+
+    - Connections
+   
+     
+    - Go To The Created PostgreSQL
+   
+      ![WhatsApp Image 2025-11-03 at 4 05 51 PM](https://github.com/user-attachments/assets/26fffdc0-ae23-40af-946b-0c1d9359a4e3)
+
+      <img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/8711826c-6a56-4211-b4c8-255e457db76a" />
+
+   
+    - Choose The Preferred Language Variable
+
+      <img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/2adfd5c8-4178-47db-a0af-65c8e1be1798" />
+      
+      <img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/11d37c9b-3172-4323-ae03-1ad79beb7da4" />
+
+    - Value of Secret
+
+
+      <img width="1280" height="568" alt="image" src="https://github.com/user-attachments/assets/b139e423-9f5c-44ad-8b92-4a631622d704" />
+
+    - Add Secret
+
+      <img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/f31c69f5-2138-4985-8bea-11a1ee30e105" />
+
+   
 
 
 
